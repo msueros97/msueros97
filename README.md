@@ -1,10 +1,3 @@
-
-
-<!--
-**msueros97/msueros97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## Hello, I'm [Mauricio Sueros] 👋
 
 - 🔭 I’m currently working on **data analytics projects** and refining my analytics skills  
@@ -14,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about **data wrangling**, **dashboard creation**, or anything **analytics-related**  
 - 📫 How to reach me: [m.sueros.t97@gmail.com](#)    
 - ⚡ Fun fact: I’m a **coffee enthusiast** who loves uncovering hidden patterns in data!
--->
+
